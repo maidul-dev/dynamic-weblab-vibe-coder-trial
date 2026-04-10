@@ -1,0 +1,22 @@
+{
+  "plans": [
+    {
+      "name": "Starter",
+      "price": 29.99,
+      "features": ["Basic Support", "5 Projects", "Community Access"],
+      "popular": false
+    },
+    {
+      "name": "Professional",
+      "price": 59.99,
+      "features": ["Priority Support", "Unlimited Projects", "Advanced Analytics", "Custom Domain"],
+      "popular": true
+    },
+    {
+      "name": "Enterprise",
+      "price": 129.99,
+      "features": ["24/7 Dedicated Support", "Unlimited Projects", "White Label", "API Access", "SLA Guarantee"],
+      "popular": false
+    }
+  ]
+}
